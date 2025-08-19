@@ -1,0 +1,4 @@
+ipynb
+requests
+numpy
+pandas
